@@ -7,3 +7,6 @@ Re-design with Storefront theme isn't easy.  It uses Hooks, and functions.  I ha
 
 The repository here is a child theme(obviously, always create and modify the child theme in word press).  Download and add this theme to the Themes folder, and activate this theme in the AppearncesSection of the WordPress admin page. 
 
+Here is the link to the web page:
+http://ekotee.com/
+
